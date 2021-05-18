@@ -3,4 +3,4 @@ target/
 ##  Intellij IDEA ##
 *.iml
 .idea
-out
+out/
