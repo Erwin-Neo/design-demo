@@ -5,7 +5,7 @@ package com.kyle.design.factory.simplefactory.pizza;
  * @version : 1.0
  * @email : edelweissvx@gmail.com
  * @date : 2021-05-16 20:26
- * @description :
+ * @description : Pizza简单工厂模式测试
  */
 public class PizzaTestDrive {
 
