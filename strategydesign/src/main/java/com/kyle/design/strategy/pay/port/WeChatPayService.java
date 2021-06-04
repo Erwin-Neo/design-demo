@@ -7,7 +7,7 @@ package com.kyle.design.strategy.pay.port;
  * @date : 2021-06-04 06:53
  * @description :
  */
-public class WeChatPayService extends PaymentService {
+public class WeChatPayService implements PaymentService {
 
     @Override
     public String getServiceName() {

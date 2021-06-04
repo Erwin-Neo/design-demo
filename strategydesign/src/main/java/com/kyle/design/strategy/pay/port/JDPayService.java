@@ -7,7 +7,7 @@ package com.kyle.design.strategy.pay.port;
  * @date : 2021-06-04 06:52
  * @description :
  */
-public class JDPayService extends PaymentService {
+public class JDPayService implements PaymentService {
 
     @Override
     public String getServiceName() {

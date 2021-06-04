@@ -7,7 +7,7 @@ package com.kyle.design.strategy.pay.port;
  * @date : 2021-06-04 06:52
  * @description :
  */
-public class AliPayService extends PaymentService {
+public class AliPayService implements PaymentService {
 
     @Override
     public String getServiceName() {
