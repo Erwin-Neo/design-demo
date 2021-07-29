@@ -54,7 +54,7 @@
 
 ##### 场景
 
-##### 		<img src="img/Untitled/image-20210729142549568.png" alt="image-20210729142549568" style="zoom: 67%;" />
+
 
 ​				因为实现了FactoryBean接口, 所以返回的不是 `SqlSessionFactoryBean` 的实例, 而是它的 `SqlSessionFactoryBean.getObject() `的返回值
 
@@ -66,9 +66,6 @@
 
 ​		`org.springframework.beans.factory.support.DefaultSingletonBeanRegistry`
 
-​		**getSingleton()过程图** 
-
-​										![image-20210729143808929](img/Untitled/image-20210729143808929.png)
 
 ​		保证一个类仅有一个实例，并提供一个访问它的全局访问点
 
