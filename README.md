@@ -1,13 +1,11 @@
-# Design Demo
+# Design Pattern Demo
 
- Here are types of Design Patterns :)
+Here are types of Design Patterns :)
 
 ### Creational Design Pattern
 
 - Factory Pattern
-
 - Abstract Factory Pattern
-
 - Singleton Pattern
 - Prototype Pattern
 - Builder Pattern
@@ -35,3 +33,4 @@
 - Strategy Pattern
 - Template Pattern
 - Visitor Pattern
+
