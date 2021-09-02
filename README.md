@@ -1,2 +1,1 @@
-# Design Demo
-Design &amp;_&amp;
+# Design Pattern Demo
