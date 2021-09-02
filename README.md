@@ -33,4 +33,3 @@ Here are types of Design Patterns :)
 - Strategy Pattern
 - Template Pattern
 - Visitor Pattern
-
