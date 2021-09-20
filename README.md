@@ -22,7 +22,7 @@ Here are types of Design Patterns :)
 
 ###  Behavioral Design Pattern
 
-- Chain Of Responsibility Pattern
+- Chain of Responsibility Pattern
 - Command Pattern
 - Interpreter Pattern
 - Iterator Pattern
