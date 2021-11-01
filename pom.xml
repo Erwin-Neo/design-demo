@@ -17,7 +17,8 @@
         <module>factory-design</module>
         <module>singleton-design</module>
         <module>strategy-design</module>
-        
+        <module>prototype-design</module>
+
     </modules>
 
     <properties>
