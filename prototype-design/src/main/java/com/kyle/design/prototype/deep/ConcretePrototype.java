@@ -17,7 +17,7 @@ public class ConcretePrototype implements Cloneable, Serializable {
 
     private String productID;
     private String productName;
-    private List tags;
+    private List<String> tags;
 
     @Override
     public ConcretePrototype clone() {
