@@ -15,7 +15,7 @@ public class ClientDrive {
 
     public static void main(String[] args) {
         // 创建原型对象
-        com.kyle.design.prototype.shallow.ConcretePrototype prototype = new com.kyle.design.prototype.shallow.ConcretePrototype();
+        ConcretePrototype prototype = new ConcretePrototype();
         prototype.setProductID("NRT12910301923");
         prototype.setProductName("Mac Pro");
         List<String> tags = new ArrayList<String>();
