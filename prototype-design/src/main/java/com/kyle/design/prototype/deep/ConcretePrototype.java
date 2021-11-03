@@ -17,15 +17,16 @@ public class ConcretePrototype implements Cloneable, Serializable {
 
     private String productID;
     private String productName;
-    private List tags;
+    private List<String> tags;
 
     @Override
-    public com.kyle.design.prototype.shallow.ConcretePrototype clone() {
+    public ConcretePrototype clone() {
         try {
-            return (com.kyle.design.prototype.shallow.ConcretePrototype) super.clone();
+            return (ConcretePrototype) super.clone();
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
             return null;
+
         }
     }
 
