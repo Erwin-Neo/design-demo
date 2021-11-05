@@ -18,6 +18,7 @@
         <module>singleton-design</module>
         <module>strategy-design</module>
         <module>prototype-design</module>
+        <module>builder-design</module>
 
     </modules>
 
