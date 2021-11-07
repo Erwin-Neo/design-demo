@@ -17,6 +17,6 @@ public class ClientDrive {
 
         // 拷贝原型对象
         ConcretePrototype cloneType = prototype.clone();
-        System.out.println("ConcretePrototype::" + cloneType);
+        System.out.println("ConcretePrototype cloneType ::" + cloneType);
     }
 }
