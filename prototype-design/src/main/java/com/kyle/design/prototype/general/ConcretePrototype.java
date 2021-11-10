@@ -4,7 +4,7 @@ package com.kyle.design.prototype.general;
  * @author : Kyle
  * @version : 1.0
  * @email : edelweissvx@gmail.com
- * @description :
+ * @description : ConcretePrototype 具体实现类
  */
 public class ConcretePrototype implements Prototype {
 
