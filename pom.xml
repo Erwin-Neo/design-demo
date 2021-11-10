@@ -19,6 +19,7 @@
         <module>strategy-design</module>
         <module>prototype-design</module>
         <module>builder-design</module>
+        <module>adapter-design</module>
 
     </modules>
 
