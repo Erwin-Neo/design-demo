@@ -4,7 +4,6 @@ package com.kyle.design.strategy.pay;
  * @author : Kyle
  * @version : 1.0
  * @email : edelweissvx@gmail.com
- * @date : 2021-06-03 23:01
  * @description :
  */
 public class MsgResult {

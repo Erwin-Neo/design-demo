@@ -6,7 +6,6 @@ import com.kyle.design.strategy.pay.MsgResult;
  * @author : Kyle
  * @version : 1.0
  * @email : edelweissvx@gmail.com
- * @date : 2021-06-03 22:20
  * @description :
  */
 public interface PaymentService {

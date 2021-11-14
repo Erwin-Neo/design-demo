@@ -7,7 +7,6 @@ import java.util.concurrent.ConcurrentHashMap;
  * @author : Kyle
  * @version : 1.0
  * @email : edelweissvx@gmail.com
- * @date : 2021-06-04 07:07
  * @description :
  */
 public class PayStrategy {
