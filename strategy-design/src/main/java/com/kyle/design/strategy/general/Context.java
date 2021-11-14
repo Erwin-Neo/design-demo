@@ -1,4 +1,4 @@
-package com.kyle.design.strategy.basic;
+package com.kyle.design.strategy.general;
 
 /**
  * @author : Kyle
