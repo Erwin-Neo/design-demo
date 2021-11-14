@@ -8,7 +8,7 @@ import com.kyle.design.strategy.pay.port.PayStrategy;
  * @email : edelweissvx@gmail.com
  * @description :
  */
-public class PayStrategyTest {
+public class PayStrategyContextDrive {
 
     public static void main(String[] args) {
         Order order = new Order("ID20220701102930", "ZJ1000918293043", 200);
