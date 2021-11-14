@@ -6,7 +6,6 @@ import com.kyle.design.strategy.pay.port.PayStrategy;
  * @author : Kyle
  * @version : 1.0
  * @email : edelweissvx@gmail.com
- * @date : 2021-06-04 07:14
  * @description :
  */
 public class PayStrategyTest {
