@@ -20,6 +20,7 @@
         <module>prototype-design</module>
         <module>builder-design</module>
         <module>adapter-design</module>
+        <module>flyweight-design</module>
 
     </modules>
 
