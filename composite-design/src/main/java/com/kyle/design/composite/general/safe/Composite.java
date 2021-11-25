@@ -1,4 +1,4 @@
-package com.kyle.design.general.safe;
+package com.kyle.design.composite.general.safe;
 
 import java.util.ArrayList;
 import java.util.List;
