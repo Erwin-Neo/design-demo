@@ -1,4 +1,4 @@
-package com.kyle.design.general.transparent;
+package com.kyle.design.composite.general.transparent;
 
 import java.util.ArrayList;
 import java.util.List;
