@@ -21,8 +21,7 @@
         <module>builder-design</module>
         <module>adapter-design</module>
         <module>flyweight-design</module>
-        <module>template-design</module>
-
+        <module>chain-of-responsibility-design</module>
     </modules>
 
     <properties>
