@@ -22,6 +22,7 @@
         <module>adapter-design</module>
         <module>flyweight-design</module>
         <module>chain-of-responsibility-design</module>
+        <module>proxy-design</module>
     </modules>
 
     <properties>
