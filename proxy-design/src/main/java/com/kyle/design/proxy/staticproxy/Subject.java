@@ -7,4 +7,6 @@ package com.kyle.design.proxy.staticproxy;
  * @description :
  */
 public interface Subject {
+
+    void sendRequest();
 }
