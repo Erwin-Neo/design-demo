@@ -7,4 +7,10 @@ package com.kyle.design.proxy.staticproxy;
  * @description :
  */
 public class ClientDrive {
+
+
+    public static void main(String[] args) {
+        ProxySubject proxySubject = new ProxySubject(new ConcreteSubjectA());
+        proxySubject.sendRequest();
+    }
 }

@@ -7,4 +7,9 @@ package com.kyle.design.proxy.staticproxy;
  * @description :
  */
 public class ConcreteSubjectB implements Subject {
+
+    @Override
+    public void sendRequest() {
+
+    }
 }
