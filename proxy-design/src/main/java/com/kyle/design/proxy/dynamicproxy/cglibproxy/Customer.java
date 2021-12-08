@@ -8,4 +8,8 @@ package com.kyle.design.proxy.dynamicproxy.cglibproxy;
  */
 public class Customer {
 
+    public void request() {
+        System.out.println("Customer takes action to handle request...");
+    }
+
 }
