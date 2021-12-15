@@ -23,6 +23,7 @@
         <module>flyweight-design</module>
         <module>chain-of-responsibility-design</module>
         <module>proxy-design</module>
+        <module>observer-design</module>
     </modules>
 
     <properties>
