@@ -24,6 +24,7 @@
         <module>chain-of-responsibility-design</module>
         <module>proxy-design</module>
         <module>observer-design</module>
+        <module>visitor-design</module>
     </modules>
 
     <properties>
