@@ -27,6 +27,7 @@
         <module>visitor-design</module>
         <module>delegate-design</module>
         <module>abstract-factory-design</module>
+        <module>state-design</module>
     </modules>
 
     <properties>
