@@ -36,6 +36,7 @@
         <module>delegate-design</module>
         <module>abstract-factory-design</module>
         <module>state-design</module>
+        <module>memento-design</module>
     </modules>
 
     <properties>
