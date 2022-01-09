@@ -37,6 +37,7 @@
         <module>abstract-factory-design</module>
         <module>state-design</module>
         <module>memento-design</module>
+        <module>iterator-design</module>
     </modules>
 
     <properties>
