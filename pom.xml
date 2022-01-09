@@ -38,6 +38,7 @@
         <module>state-design</module>
         <module>memento-design</module>
         <module>iterator-design</module>
+        <module>mediator-design</module>
     </modules>
 
     <properties>
