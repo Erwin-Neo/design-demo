@@ -39,6 +39,8 @@
         <module>memento-design</module>
         <module>iterator-design</module>
         <module>mediator-design</module>
+        <module>interpreter-design</module>
+        <module>factory-method-design</module>
     </modules>
 
     <properties>
